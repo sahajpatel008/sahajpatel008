@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahajpatel008
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning DL
+
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me : https://www.linkedin.com/in/sahajpatel008/
 
